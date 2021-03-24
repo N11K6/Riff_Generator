@@ -1,7 +1,7 @@
 # Guitar Riff Generator
 
 A machine learning model used to generate guitar-centric riffs, trained using a database of MIDI files.
-The code included in this repository is based on the Melody Generation tutorial project by Valerio Velardo 
+Most of the code included in this repository is based on the Melody Generation tutorial project by Valerio Velardo 
 [https://github.com/musikalkemist/generating-melodies-with-rnn-lstm/], the video playlist for which can be found available on
 Youtube [https://www.youtube.com/playlist?list=PL-wATfeyAMNr0KMutwtbeDCmpwvtul-Xz].
 
